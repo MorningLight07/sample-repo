@@ -9,6 +9,6 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(service=Service (ChromeDriverManager().install()),
                           options=options)
                                                                        
-driver.get("http://127.0.0.1:8000/createposts")
+driver.get("http://127.0.0.1:8000/createposts"}
 
-nalilibog na ako
+nalilibog
