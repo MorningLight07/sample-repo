@@ -14,3 +14,7 @@ driver.get("http://127.0.0.1:8000/createposts")
 =======
 driver = webdriver.Chrome()
 >>>>>>> 6b34438a7cab788745049dafd2732326dd262563
+
+
+
+baho kag igit
